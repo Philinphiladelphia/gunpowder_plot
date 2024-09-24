@@ -1,0 +1,35 @@
+{
+    "name": "Radiant Fire Burst",
+    "max_size": 10,
+    "elements": ["fire"],
+    "lines": [
+      {
+        "start": [0, 0],
+        "end": [5, 5],
+        "width": 2,
+        "velocity_x": 50,
+        "velocity_y": 50
+      },
+      {
+        "start": [0, 0],
+        "end": [-5, 5],
+        "width": 2,
+        "velocity_x": -50,
+        "velocity_y": 50
+      },
+      {
+        "start": [0, 0],
+        "end": [5, -5],
+        "width": 2,
+        "velocity_x": 50,
+        "velocity_y": -50
+      },
+      {
+        "start": [0, 0],
+        "end": [-5, -5],
+        "width": 2,
+        "velocity_x": -50,
+        "velocity_y": -50
+      }
+    ]
+  }

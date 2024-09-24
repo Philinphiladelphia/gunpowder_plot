@@ -1,0 +1,16 @@
+{
+    "spell_type":"sustained",
+    "spell_cost":"0.4",
+    "spell_lines":
+        [
+            {
+                "x1": -20,
+                "y1":20,
+                "x2":20,
+                "y2":20,
+                "vy": -100,
+                "vx": 0,
+                "particle_type": "PHOTON"
+            }
+        ]
+}
