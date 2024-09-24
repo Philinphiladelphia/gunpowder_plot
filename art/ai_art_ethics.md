@@ -1,0 +1,3 @@
+Gunpowder Plot uses AI-generated pixel art. Many people have ethical concerns concerning the use of generative art models trained on stolen art. Very often, generative models scrape for "training data" (a misnomer for stolen art) indiscriminately. This is essentially stealing artists creative expression: their thoughts and style.
+
+My goal in using generative art models for Gunpowder Plot was to allow the AI to develop an art style of its own. I directed it, drawing on my own knowledge of art. I firmly believe that generative art models have a role in the world, and that role consists of assising humans and granting thoughtbots a measure of self-expression. I welcome differing opinions.
